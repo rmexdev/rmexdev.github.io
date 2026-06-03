@@ -1,5 +1,5 @@
 {
-    "name": "rmexdev.github.io",
+    "name": "@rd/root",
     "module": "index.ts",
     "scripts": {
         "lint": "prettier --write ."
