@@ -1,19 +1,5 @@
 {
     "name": "@rd/root",
-    "module": "index.ts",
-    "scripts": {
-        "lint": "prettier --write ."
-    },
-    "devDependencies": {
-        "@types/bun": "latest",
-        "prettier": "^3.8.3"
-    },
-    "peerDependencies": {
-        "typescript": "^5"
-    },
-    "workspaces": [
-        "packages/*"
-    ],
     "private": true,
     "type": "module"
 }
