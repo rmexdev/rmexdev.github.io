@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rmex.dev/sitemap-index.xml
+Sitemap: https://rmexdev.github.io/sitemap-index.xml
