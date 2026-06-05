@@ -9,7 +9,6 @@ export default defineAstroPaperConfig({
         profile: 'https://rmex.dev/',
         ogImage: 'default-og.png',
         lang: 'en',
-        timezone: 'Asia/Kolkata',
         dir: 'ltr',
     },
     posts: {
