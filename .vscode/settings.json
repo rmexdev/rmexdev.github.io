@@ -4,5 +4,16 @@
     "editor.tabSize": 4,
     "files.insertFinalNewline": true,
     "js/ts.format.semicolons": "insert",
-    "js/ts.preferences.importModuleSpecifierEnding": "js"
+    "js/ts.preferences.importModuleSpecifierEnding": "js",
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.words": [
+        "rmexdev"
+    ],
+    "cSpell.enabledFileTypes": {
+        "*": false
+    }
 }
