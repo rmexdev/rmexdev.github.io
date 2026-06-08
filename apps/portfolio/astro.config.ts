@@ -82,4 +82,7 @@ export default defineConfig({
     experimental: {
         svgOptimizer: svgoOptimizer(),
     },
+    redirects: {
+        "/posts/20260605-quit-job/": "/posts/resigned-from-my-tech-job-the-past-the-present-and-the-future/"
+    }
 });
