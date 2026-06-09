@@ -5,13 +5,15 @@
     "files.insertFinalNewline": true,
     "js/ts.format.semicolons": "insert",
     "js/ts.preferences.importModuleSpecifierEnding": "js",
-    "spellright.language": [],
-    "spellright.documentTypes": [
-        "latex",
-        "plaintext"
-    ],
     "cSpell.words": [
-        "rmexdev"
+        "Codeberg",
+        "Godaddy",
+        "indiehacker",
+        "MERN",
+        "rmex",
+        "rmexdev",
+        "upvotes",
+        "webdev"
     ],
     "cSpell.enabledFileTypes": {
         "*": false
