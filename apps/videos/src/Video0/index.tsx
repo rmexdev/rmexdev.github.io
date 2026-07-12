@@ -8,7 +8,7 @@ import {
     useVideoConfig,
 } from 'remotion';
 import { z } from 'zod';
-import { Logo } from './Logo';
+import { Logo } from '../shared/Logo';
 import { Subtitle } from './Subtitle';
 import { Title } from './Title';
 import THEME from '../theme';
@@ -20,7 +20,7 @@ export const testVideoSchema = z.object({
     logoColor2: zColor(),
 });
 
-export const TestVideo: React.FC<z.infer<typeof testVideoSchema>> = ({
+export const Video0: React.FC<z.infer<typeof testVideoSchema>> = ({
     titleText: propOne,
     titleColor: propTwo,
     logoColor1,

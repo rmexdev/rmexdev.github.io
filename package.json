@@ -1,5 +1,8 @@
 {
     "name": "@rd/root",
     "private": true,
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "lucide-react": "^1.24.0"
+    }
 }
